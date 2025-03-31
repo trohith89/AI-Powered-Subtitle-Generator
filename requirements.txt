@@ -1,0 +1,12 @@
+streamlit
+openai-whisper
+ffmpeg-python
+pandas
+chromadb
+pickle-mixin
+ffmpeg-python
+pandas
+numpy
+sentence-transformers
+chromadb
+whisper
